@@ -8,6 +8,6 @@ int main(){
         mn = min(mn, x);
         mx = max(mx, x);
 }
-cout << s - mx << ' ' << s - mn;
+        cout << s - mx << ' ' << s - mn;
     return 0;
 }
